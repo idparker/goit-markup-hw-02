@@ -38,8 +38,8 @@ a {
 /* .header-list {
 } */
 
-.header-item {
-}
+/* .header-item {
+} */
 
 .header-link {
   color: var(--NAVY-BLUE, #2e2f42);
@@ -61,11 +61,19 @@ a {
 /* .contacts-list {
 } */
 
-.contacts-item {
+/* .contacts-item {
+} */
+
+.contacts-link {
   color: var(--SLATE, #434455);
   /* Body */
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
+}
+
+.contacts-link:hover,
+.contacts-link:focus {
+  color: #404bbf;
 }
 
 .hero-section {

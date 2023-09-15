@@ -47,7 +47,6 @@ a {
 
 .header-item a {
   color: var(--NAVY-BLUE, #2e2f42);
-  /* Body Medium */
   font-weight: 500;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
@@ -70,8 +69,12 @@ a {
 /* .contacts-list {
 } */
 
-/* .contacts-item {
-} */
+.contacts-item {
+  color: var(--SLATE, #434455);
+  /* Body */
+  line-height: 1.5; /* 150% */
+  letter-spacing: 0.02em;
+}
 
 .contacts-item a {
   color: var(--SLATE, #434455);

@@ -46,8 +46,8 @@ a {
   letter-spacing: 0.02em;
 }
 
-.header-item a:hover,
-.header-item a:focus {
+.header-item:hover,
+.header-item:focus {
   color: #404bbf;
   /* Body Medium */
   font-size: 16px;

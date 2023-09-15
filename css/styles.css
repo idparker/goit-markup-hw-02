@@ -11,6 +11,7 @@ ul {
 
 a {
   text-decoration: none;
+  color: inherit;
 }
 
 /* .navigation {
@@ -45,13 +46,6 @@ a {
   letter-spacing: 0.02em;
 }
 
-.header-item a {
-  color: var(--NAVY-BLUE, #2e2f42);
-  font-weight: 500;
-  line-height: 1.5; /* 150% */
-  letter-spacing: 0.02em;
-}
-
 .header-item a:hover,
 .header-item a:focus {
   color: #404bbf;
@@ -70,13 +64,6 @@ a {
 } */
 
 .contacts-item {
-  color: var(--SLATE, #434455);
-  /* Body */
-  line-height: 1.5; /* 150% */
-  letter-spacing: 0.02em;
-}
-
-.contacts-item a {
   color: var(--SLATE, #434455);
   /* Body */
   line-height: 1.5; /* 150% */

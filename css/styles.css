@@ -148,12 +148,12 @@ a {
 /* .team-list {
 } */
 
+/* .team-image {
+} */
+
 .team-item {
   background-color: #ffffff;
 }
-
-/* .team-image {
-} */
 
 .team-title {
   color: var(--NAVY-BLUE, #2e2f42);
